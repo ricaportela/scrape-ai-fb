@@ -1,3 +1,3 @@
 
-usr = "ricaportela@gmail.com"
-pwd = "PedroRps1996@"
+usr = "user"
+pwd = "password"
