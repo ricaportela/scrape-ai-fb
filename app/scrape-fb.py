@@ -17,7 +17,7 @@ elem.send_keys(senha)
 elem.send_keys(Keys.RETURN)
 sleep(10)
 
-post_box=firefox.find_element_by_name("xhpc_message").send_keys("Testando Postagem com Seleinum - Automação Cobolman!.")
+post_box=firefox.find_element_by_name("xhpc_message").send_keys("Testando Postagem com Seleinum - Automação Tutoria Developer!.")
 sleep(2)
 post_it=firefox.find_element_by_xpath("//*[text()='Publicar']").click()
 
